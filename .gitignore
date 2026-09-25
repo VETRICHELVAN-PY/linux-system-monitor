@@ -1,0 +1,22 @@
+# Logs
+logs/*.log
+logs/*.log.*
+
+# Generated monitoring history
+logs/history.csv
+
+# Generated reports
+reports/*.txt
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+# Root-level generated files
+system.log
+system_history.csv
+printf '\n# Root-level generated files\nsystem.log\nsystem_history.csv\n' >> .gitignore
