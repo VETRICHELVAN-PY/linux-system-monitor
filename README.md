@@ -93,3 +93,19 @@ Resource measurements are stored in CSV format:
 
 ```text
 timestamp,cpu_percent,ram_percent,swap_percent,disk_percent,load_1m,processes,health
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](docs/screenshots/main-menu.png)
+
+### System Overview
+![System Overview](docs/screenshots/system-overview.png)
+
+### Health Analysis
+![Health Analysis](docs/screenshots/health-analysis.png)
+
+### Full Diagnostics
+![Full Diagnostics](docs/screenshots/full-diagnostics.png)
+
+### Live Monitoring
+![Live Monitoring](docs/screenshots/live-monitor.png)
