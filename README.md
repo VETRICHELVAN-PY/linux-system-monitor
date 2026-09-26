@@ -78,3 +78,29 @@ Health states:
 NORMAL
 WARNING
 CRITICAL
+cat >> README.md <<'EOF'
+
+---
+
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](docs/screenshots/main-menu.png)
+
+### System Overview
+
+![System Overview](docs/screenshots/system-overview.png)
+
+### Health Analysis
+
+![Health Analysis](docs/screenshots/health-analysis.png)
+
+### Full Diagnostics
+
+![Full Diagnostics](docs/screenshots/full-diagnostics.png)
+
+### Live Monitoring
+
+![Live Monitoring](docs/screenshots/live-monitor.png)
+EOF
